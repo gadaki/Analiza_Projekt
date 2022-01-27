@@ -92,7 +92,7 @@ print("średnia z poszczególnych kwartałów: ",x1)
 values = ["1","2","3","4"]
 
 # Ponownie definiujemy zmienne
-df = pd.read_csv('/home/studentb10/Brudnopis/zad_2/plik_b.csv')
+df = pd.read_csv('/home/studentb10/Sprawozdanie_Dawid_Ewa/Zadanie_2/plik_b.csv')
 x=df['Miesiąc']
 y=df['Cena']
 
